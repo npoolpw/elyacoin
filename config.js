@@ -15,5 +15,7 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["npool.pw/elyacoin", "http://ca.npool.pw:10090"]
+        ["npool.pw/elyacoin", "http://ca.npool.pw:10090"],
+        ["elya.freshpool.org", "http://geo.elya.freshpool.org:13002"],
+        ["elya.saltpool.net", "http://elya.saltpool.net:8121"]
 ];
